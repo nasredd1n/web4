@@ -1,3 +1,4 @@
+web4-six.vercel.app
 # Football Blog Platform
 
 This project is a football-focused blogging platform built with Node.js and Express, featuring EJS for server-side templating. It is designed to cater to football enthusiasts who want to read and write about the game. With user authentication, blog management, and real-time league information, it's a one-stop platform for sharing and engaging with football content.
